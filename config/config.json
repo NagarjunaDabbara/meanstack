@@ -1,0 +1,6 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI":"mongodb://arjun2:arjun2@ds259253.mlab.com:59253/mongouploads"
+    }
+}
