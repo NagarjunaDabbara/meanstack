@@ -3,9 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  apiBaseUrl: 'http://localhost:3000/api'
-};
+  production: true,
+  };
 
 /*
  * In development mode, to ignore zone related error stack frames such as
